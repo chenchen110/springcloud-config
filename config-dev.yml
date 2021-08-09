@@ -1,2 +1,2 @@
-config：
-    config-dev version1.0
+config:
+      name: config,version=1.0
